@@ -1,0 +1,9 @@
+﻿<Application x:Class="RestaurantOrderSystem.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:RestaurantOrderSystem"
+             StartupUri="Views/OrderView.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
